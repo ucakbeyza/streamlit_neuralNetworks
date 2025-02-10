@@ -3,6 +3,7 @@ Rainfall Prediction Application
 This project is a rainfall prediction application developed using Python and Streamlit. Users can upload datasets to analyze data and make predictions using a Multilayer Perceptron (MLPClassifier) neural network.
 
 Features
+
 * Data Upload: Load CSV or Excel files and view the dataset
 * Data Analysis: Summary statistics, filtering, and plotting
 * Machine Learning:
@@ -13,6 +14,7 @@ Features
   - Neural Network Graph visualization
 
 Usage
+
 1- Run Streamlit
     streamlit run app.py
     
