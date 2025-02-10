@@ -27,4 +27,5 @@ Usage
 
 Requirements
 * Install the necessary libraries:
+  
     pip install streamlit pandas scikit-learn matplotlib networkx
