@@ -16,6 +16,7 @@ Features
 Usage
 
 1- Run Streamlit
+
     streamlit run app.py
     
 2- Upload a CSV or Excel dataset
