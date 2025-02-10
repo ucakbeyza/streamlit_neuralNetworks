@@ -15,8 +15,11 @@ Features
 Usage
 1- Run Streamlit
     streamlit run app.py
+    
 2- Upload a CSV or Excel dataset
+
 3- Analyze the data and choose a modeling method
+
 4- View prediction results and model performance
 
 Requirements
