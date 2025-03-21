@@ -1,3 +1,5 @@
+Konya Technical University artificial neural networks course midterm homework
+
 Rainfall Prediction Application 
 
 This project is a rainfall prediction application developed using Python and Streamlit. Users can upload datasets to analyze data and make predictions using a Multilayer Perceptron (MLPClassifier) neural network.
